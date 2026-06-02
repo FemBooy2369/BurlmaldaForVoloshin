@@ -1,0 +1,16 @@
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net10.0-windows\WinFormsApp4.exe
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net10.0-windows\WinFormsApp4.deps.json
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net10.0-windows\WinFormsApp4.runtimeconfig.json
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net10.0-windows\WinFormsApp4.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net10.0-windows\WinFormsApp4.pdb
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net10.0-windows\WinFormsApp4.Form1.resources
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net10.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net10.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net10.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net10.0-windows\WinFormsApp4.AssemblyInfo.cs
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net10.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net10.0-windows\WinFormsApp4.dll
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net10.0-windows\refint\WinFormsApp4.dll
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net10.0-windows\WinFormsApp4.pdb
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net10.0-windows\WinFormsApp4.genruntimeconfig.cache
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net10.0-windows\ref\WinFormsApp4.dll
